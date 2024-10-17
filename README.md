@@ -1,5 +1,10 @@
-## Hello there!
+<h1>Hello there, I am Vinz Solano.</h1>
 
+I am an aspiring Data Scientist and I want to specialize in Machine Learning and Deep Learning for Artificial Intelligence.
+
+<p>Education</p>
+<p>Certifications</p>
+<p>Skillsets</p>
 <!--
 **SolanoV/SolanoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
