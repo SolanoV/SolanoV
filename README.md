@@ -9,25 +9,19 @@
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 <hr>
 
-🏫  **Education** 
+## 🏫  **Education** 
 - ***Bachelor of Science in Computer Science***
   <br>_New Era University_
   <br>_August 2023-Present_
   
-📎**Certifications**
+## 📎**Certifications**
 - Placeholder
 - Placeholder
 
-⚙️**Skillsets**
+## ⚙️ **Skillsets**
 - Database Management
 - Data Visualization and Problem Solving
 - Data Analytics
 - Programming (Python, Java, C++, R, SQL)
 - Graphics Design
-<!--
--   :video_game: I am working as **Principle DevOps Engineer**
--   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Golang**
--   :heart: Open Source Software
--   :penguin: **Linux** ... it does infinite loops in 5 seconds..
--->
+
