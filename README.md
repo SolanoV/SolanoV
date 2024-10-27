@@ -1,21 +1,15 @@
 <h1>Hello there, I am Vinz Solano.</h1>
 
-I am an aspiring Data Scientist and I want to specialize in Machine Learning and Deep Learning for Artificial Intelligence.
+I am an aspiring <b>data scientist currently enrolled in an undergraduate degree program in computer science. I see the world in patterns and symbols, that's one reason why I chose data science.
 
-<p>Education</p>
+<p><b>Education</b></p>
 <p>Certifications</p>
 <p>Skillsets</p>
 <!--
-**SolanoV/SolanoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+-   :video_game: I am working as **Principle DevOps Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds..
 -->
