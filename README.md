@@ -1,6 +1,12 @@
 <img src="https://github.com/SolanoV/SolanoV/blob/main/assets/introductionBanner.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
-I am an aspiring <b>data scientist</b> enrolled in an undergraduate degree program in computer science. I see the world in patterns and symbols, that's one reason why I chose data science.
+
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
+<p align="center">I am an aspiring <b>data scientist</b> enrolled in an undergraduate degree program in computer science.<br>✨I see the universe in patterns and symbols✨.
+</p>
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 <hr>
 
 🏫  **Education** 
