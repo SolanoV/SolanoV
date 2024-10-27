@@ -1,12 +1,12 @@
-<img src="https://github.com/SolanoV/SolanoV/blob/main/assets/introductionBanner.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+![<img src="https://github.com/SolanoV/SolanoV/blob/main/assets/introductionBanner.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />](https://github.com/SolanoV/SolanoV/blob/main/assets/introBanner_V2.png?raw=true)
 
 
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
+<p align="center">   ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.</p>
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
-<p align="center">I am an aspiring <b>data scientist</b> enrolled in an undergraduate degree program in computer science.<br>✨I see the universe in patterns and symbols✨.
+<p align="center">I am an aspiring <b>Data Scientist</b> taking an undergraduate degree program in Bachelor of Science in computer science.<br>Welcome! Here you will see some of the projects I'm contributing to or have contributed to.<br> Why did I choose Computer Science? Because I view the universe in patterns and symbols.
 </p>
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.
 　　　.   　　˚　✭　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　✭　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
+<p align="center">   ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆.</p>
 <hr>
 
 ## 🏫  **Education** 
