@@ -1,16 +1,17 @@
 <img src="https://github.com/SolanoV/SolanoV/blob/main/assets/banner.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 I am an aspiring <b>data scientist</b> enrolled in an undergraduate degree program in computer science. I see the world in patterns and symbols, that's one reason why I chose data science.
+<hr>
 
 🏫  **Education** 
 - ***Bachelor of Science in Computer Science***
   <br>_New Era University_
-  <br>August 2023-May 2027
+  <br>_August 2023-Present_
   
 📎**Certifications**
-- a
-- a
-- 
+- Placeholder
+- Placeholder
+
 ⚙️**Skillsets**
 - Database Management
 - Data Visualization and Problem Solving
