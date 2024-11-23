@@ -16,7 +16,6 @@
   
 ## 📎**Certifications**
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/89aa950835194d4f851ca787c679e98a)
-- Placeholder
 
 ## ⚙️ **Skillsets**
 - Database Management
