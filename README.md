@@ -18,7 +18,7 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/89aa950835194d4f851ca787c679e98a)
 - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8EAAEF914B53892AEA71466B775C16B0ADD5E9316047E0605EA139172FDE40E8)
 - [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8EAAEF914B53892AEA71466B775C16B0C4F6007E4307670866C0A3C5AF17ABF8)
-- [Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate]()
+- [Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AD12952FD87073231EBE79C24D00C8EF8A1D1C912960CF1CD3EA1457960BD7E8)
 
 ## ⚙️ **Skillsets**
 - Database Management
