@@ -1,6 +1,7 @@
+# 📯Hi, I'm Vinz!
 ![<img src="https://github.com/SolanoV/SolanoV/blob/main/assets/introductionBanner.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />](https://github.com/SolanoV/SolanoV/blob/main/assets/introBanner_V2.png?raw=true)
 
-- 
+- A developer that likes diversity in tech. From AI to Operating Systems, I wish to learn them all. I aspire to learn and attain skills little by little for fun. 
 <hr>
 
 ## 🏫  **Education** 
@@ -8,11 +9,9 @@
   <br>_New Era University_
   <br>_August 2023-Present_
   
-## 📎**Qualifications**
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/89aa950835194d4f851ca787c679e98a)
-- [Oracle Cloud Infrastructure 2024 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8EAAEF914B53892AEA71466B775C16B0ADD5E9316047E0605EA139172FDE40E8)
-- [Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=8EAAEF914B53892AEA71466B775C16B0C4F6007E4307670866C0A3C5AF17ABF8)
-- [Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AD12952FD87073231EBE79C24D00C8EF8A1D1C912960CF1CD3EA1457960BD7E8)
+## 📎[**Qualifications**](https://github.com/SolanoV/SolanoV/wiki)
+- [Certifications](https://github.com/SolanoV/SolanoV/wiki/Certifications)
+- [Repositories](https://github.com/SolanoV/SolanoV/wiki/Repositories)
 
 ## 🛠️ **Skillsets**
 <div align="center">
