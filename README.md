@@ -1,7 +1,7 @@
 # 📯Hi, I'm Vinz!
 ![<img src="https://github.com/SolanoV/SolanoV/blob/main/assets/introductionBanner.png?raw=true" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />](https://github.com/SolanoV/SolanoV/blob/main/assets/introBanner_V2.png?raw=true)
 
-- A developer that likes diversity in tech. From AI to Operating Systems, I wish to learn them all. I aspire to learn and attain skills little by little for fun. 
+- A versatile technologist bridging the gap between Data Science and Systems Engineering. I am committed to mastering the diverse layers of the technology stack, from bare metal to cloud intelligence. I pride myself on my adaptability and rapid learning curve, allowing me to efficiently comprehend new paradigms and deliver robust solutions across varied domains.
 <hr>
 
 ## 🏫  **Education** 
