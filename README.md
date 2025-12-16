@@ -25,6 +25,6 @@
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=solanov&show_icons=true&theme=great-gatsby&card_width=350&rank_icon=percentile&include_all_commits=true&text_bold=true&custom_title=Percentile%20Stats&show_owner=false" alt="V's GitHub Stats" width=400px/> &emsp; <img align="center" height=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=solanov&layout=compact&langs_count=8&theme=great-gatsby&text_bold=true" width=380px />
-<br><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolanoV&theme=great_gatsby"/>
 </div>
+<br>
+<div align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolanoV&theme=great_gatsby"/></div>
