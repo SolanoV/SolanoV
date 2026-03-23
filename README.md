@@ -27,4 +27,6 @@
 </div>
 
 ## ⚡**Activity**
-![My Activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolanoV&theme=great_gatsby)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolanoV&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" alt="SolanoV's GitHub Stats" />
+</div>
